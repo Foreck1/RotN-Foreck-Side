@@ -1,0 +1,31 @@
+//Blocks
+tile.adamantium_ore.name=Viridium Ore
+tile.adamantium_block.name=Block of Viridium
+
+//Items
+item.adamantium_ingot.name=Viridium Ingot
+
+//Tools
+item.adamantium_pickaxe.name=Viridium Pickaxe
+item.adamantium_axe.name=Viridium Axe
+item.adamantium_shovel.name=Viridium Shovel
+item.adamantium_sword.name=Viridium Sword
+item.adamantium_hoe.name=Viridium Hoe
+item.adamantium_shears.name=Viridium Shears
+
+//Armor
+item.adamantium_helmet.name=Viridium Helmet
+item.adamantium_chestplate.name=Viridium Cuirass
+item.adamantium_leggings.name=Viridium Leggings
+item.adamantium_boots.name=Viridium Boots
+item.copper_chestplate.name=Copper Cuirass
+
+
+//Achievements
+advancements.adamantiumAch=Green is Good
+advancements.adamantiumAch.desc=Dig just as deep to mine viridium ore
+
+advancements.adamantium_legs_ach=Suit Up
+advancements.adamantium_legs_ach.desc=Stand out from the crowd with a stylish pair of viridium leggings!
+advancements.adamantiumShearsAch=Endless Sheep Shearing
+advancements.adamantiumShearsAch.desc=Finally, shears that don't break instantly!
